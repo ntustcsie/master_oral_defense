@@ -1,4 +1,4 @@
-const gas = "https://script.google.com/macros/s/AKfycbwQAkHFvFOtgvceelD7Kq_2eOmnZbCa7d6z_b7O7FF4rcTMN6WIrxX0FG9Ijh3jOuOt/exec";
+const gas = "https://script.google.com/macros/s/AKfycbyiCKco2ieUj-3p9W31AYccrn1D9Knttc5ARFjtz1yZmmrXPOdIThCZEmEI7wy7QHWWyA/exec";
 
 $(document).ready(function () {
     let urlParams = new URLSearchParams(window.location.search);
